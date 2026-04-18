@@ -34,8 +34,8 @@ job "getting-started-app" {
       }
 
       resources {
-        cpu    = 100
-        memory = 128
+        cpu    = 3
+        memory = 10
       }
     }
   }
