@@ -1,3 +1,4 @@
+
 variable "image_tag" {
   type        = string
   description = "Docker image to deploy."
