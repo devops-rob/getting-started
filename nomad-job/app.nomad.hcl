@@ -20,7 +20,7 @@ job "getting-started-app" {
     network {
       port "http" {
         static = var.port
-        to     = 80
+        to     = 8080
       }
     }
 
